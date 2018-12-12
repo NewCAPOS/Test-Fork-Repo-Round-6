@@ -15,7 +15,7 @@ Edit Readme
 ---
 
 - **ID :** 2
-- **Name :** CHANCHAI
+- **Name :** CC
 - **Gender :** M
 
 ---
